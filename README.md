@@ -1,5 +1,7 @@
-# E-Commerce Analysis
+# Olist E-Commerce Analysis
 
-E-Commerce business case exercise using the Brazilian public dataset by Olist, to demonstrate purchasing trend visualizations and customer segmentations.
+- 2-day business case exercise using the Brazilian e-Commerce public dataset by Olist, to analyze purchasing trends and to perform customer segmentations.
 
-Reference: Original dataset on Kaggle [here](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) 
+- Reference: Original dataset on Kaggle [here](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) 
+
+- Code Status: Last updated in March 2023
